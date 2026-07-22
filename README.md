@@ -13,6 +13,10 @@ A SQL-based analysis of a full year of pizza restaurant sales, built to surface 
 | `SOLUTIONS.sql` | (https://github.com/stej07033/MSSQL-EXCEL_PROJECT1/blob/main/SOLUTIONS.sql)
 | `Dashboard1.xlsx` |(https://github.com/stej07033/MSSQL-EXCEL_PROJECT1/blob/main/Dashboard1.xlsx)
 
+##PIVOT TABLES
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8d6cd16c-f3f3-46df-b642-40ebacb613ff" />
+
+
 ## SOLUTIONS_SQL
 ```sql
 --- Pizza_sales project
