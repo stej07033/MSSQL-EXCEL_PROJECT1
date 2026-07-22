@@ -307,11 +307,6 @@ The analysis answers common restaurant-analytics questions:
 - Category and size breakdowns show where revenue concentration lies across the menu.
 - Custom business reports classify products and segments into performance tiers to support quick decision-making.
 
-## 📝 Notes
-
-- Query logic (rating/grade thresholds) is illustrative and can be tuned to match actual business targets.
-- Some column/label naming in the bonus report queries (e.g. `PIZZA_NAME` vs restaurant-level fields) reflects the original working draft and can be cleaned up for production use.
-
 ## 👨‍💻 Author
 
 **Madanapalli Sai**
