@@ -7,7 +7,7 @@ A SQL-based analysis of a full year of pizza restaurant sales, built to surface 
 | File | Description |
 |---|---|
 | `pizza_sales.csv` | Raw transactional sales data (~48,600 order line items, Jan–Dec 2015) |
-| `SOLUTIONS.sql` | SQL queries for KPIs, trends, and business reports |(https://github.com/stej07033/MSSQL-EXCEL_PROJECT1/blob/main/SOLUTIONS.sql)
+| `SOLUTIONS.sql` | (https://github.com/stej07033/MSSQL-EXCEL_PROJECT1/blob/main/SOLUTIONS.sql)
 | `Dashboard1.xlsx` | Excel dashboard visualizing the analysis |
 
 ## 🗂️ Dataset
