@@ -16,55 +16,51 @@ A SQL-based analysis of a full year of pizza restaurant sales, built to surface 
 PIVOT TABLES
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a697c591-29a6-4553-9b68-854202969c89" />
 
-## DASHBOARD
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-																						
-<img width="1841" height="1057" alt="image" src="https://github.com/user-attachments/assets/88f07643-53c3-49c3-bf0c-8c60d49714cc" />
-
-
-
+## DASHBOAD
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+![Uploading image.png…]()
 
 
 ## SOLUTIONS_SQL
