@@ -8,7 +8,7 @@ A SQL-based analysis of a full year of pizza restaurant sales, built to surface 
 |---|---|
 | `pizza_sales.csv` |(https://www.kaggle.com/code/melikedilekci/eda-pizza-restaurant-sales)
 | `SOLUTIONS.sql` | (https://github.com/stej07033/MSSQL-EXCEL_PROJECT1/blob/main/SOLUTIONS.sql)
-| `Dashboard1.xlsx` | Excel dashboard visualizing the analysis |
+| `Dashboard1.xlsx` |(https://github.com/stej07033/MSSQL-EXCEL_PROJECT1/blob/main/Dashboard1.xlsx)
 
 ## 🗂️ Dataset
 
