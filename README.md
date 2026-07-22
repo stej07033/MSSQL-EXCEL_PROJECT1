@@ -2,7 +2,7 @@
 
 A SQL-based analysis of a full year of pizza restaurant sales, built to surface key business KPIs, sales trends, and product performance — paired with an Excel dashboard for visualization.
 
-![Uploading image.png…]()
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/aa75bf8b-6ec2-4122-9645-2e384b78c2bd" />
 
 
 ## 📁 Project Files
