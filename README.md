@@ -60,8 +60,7 @@ PIVOT TABLES
 																					
 																					
 																					
-![Uploading image.png…]()
-
+<img width="1761" height="1033" alt="image" src="https://github.com/user-attachments/assets/004a8065-d6e5-4e6b-97d0-b5e6cc5ad71e" />
 
 ## SOLUTIONS_SQL
 ```sql
