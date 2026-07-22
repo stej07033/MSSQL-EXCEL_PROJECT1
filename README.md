@@ -312,6 +312,34 @@ The analysis answers common restaurant-analytics questions:
 - Query logic (rating/grade thresholds) is illustrative and can be tuned to match actual business targets.
 - Some column/label naming in the bonus report queries (e.g. `PIZZA_NAME` vs restaurant-level fields) reflects the original working draft and can be cleaned up for production use.
 
-## 📄 License
+## 👨‍💻 Author
 
-This project is intended for educational and portfolio purposes.
+**Madanapalli Sai**
+
+### 📊 Data Analyst
+
+Passionate about transforming raw data into meaningful business insights using SQL, Excel, and data visualization techniques. Experienced in building interactive dashboards, analyzing sales trends, and generating data-driven reports.
+
+### 🛠️ Skills
+
+- 📊 Data Analysis
+- 🗄️ SQL (Microsoft SQL Server)
+- 📈 Microsoft Excel
+- 📉 Excel Dashboards
+- 📋 Pivot Tables & Pivot Charts
+- 📊 Data Visualization
+- 📌 Business Intelligence (BI)
+- 📑 Data Cleaning & Transformation
+- 📈 KPI Analysis
+- 📉 Sales & Revenue Analysis
+- 📅 Trend Analysis
+- 🧮 Statistical Analysis
+- 🐍 Python (Pandas, NumPy)
+- 📚 Problem Solving
+- 🔍 Analytical Thinking
+- 🐙 Git & GitHub
+
+### 🌐 Connect with Me
+
+- **GitHub:** https://github.com/stej07033
+- **LinkedIn:** https://www.linkedin.com/in/madanapalli-sai-19b835389
