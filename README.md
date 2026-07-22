@@ -2,6 +2,8 @@
 
 A SQL-based analysis of a full year of pizza restaurant sales, built to surface key business KPIs, sales trends, and product performance — paired with an Excel dashboard for visualization.
 
+![LOGO PIZZA](https://chatgpt.com/backend-api/estuary/content?id=file_000000008c348208b203bf1af612debb&ts=495757&p=fs&cid=1&sig=7ce5964b42ee6bd42abe182d57ae488da935d1d183ee0fb6315815a7feabd0af&v=0)
+
 ## 📁 Project Files
 
 | File | Description |
